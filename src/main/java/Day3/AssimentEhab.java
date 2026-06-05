@@ -1,6 +1,6 @@
 package Day3;
 
-public class Assiment {
+public class AssimentEhab {
     public static void main(String[] args) {
 
         //Print numbers from 1 to 10
