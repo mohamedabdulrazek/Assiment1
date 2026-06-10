@@ -1,17 +1,24 @@
 package Day4;
 
+import java.awt.*;
+
 public class main {
 
     void main(String[] args) {
 
-        Sum s = new Sum();
-        s.sum2Number(10, 20);
+//        Sum s = new Sum();
+//        s.sum2Number(10, 20);
+//
+//        s.sum2Number(10, 40);
+//
+//        hamada();
+//        total(10, 20);
 
-        s.sum2Number(10, 40);
+        Redtangle rectangle = new Redtangle();
+        double x = rectangle.calculateLength();
+        System.out.println(x);
 
-        hamada();
-        total(10, 20);
-    }
+   }
 
     public static void hamada()
     {
