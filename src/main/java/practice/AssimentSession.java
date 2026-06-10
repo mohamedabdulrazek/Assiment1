@@ -1,3 +1,5 @@
+package practice;
+
 import java.util.Scanner;
 public class AssimentSession {
     static void main(String[] args) {

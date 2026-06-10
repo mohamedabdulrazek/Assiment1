@@ -1,4 +1,4 @@
-package function1;
+package practice;
 
 public class learnFunction {
     static void main(String[] args) {
